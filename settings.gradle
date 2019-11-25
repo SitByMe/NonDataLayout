@@ -1,0 +1,2 @@
+include ':app', ':emptyviewlib'
+rootProject.name='NonDataLayout'

@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="EmptyView">
+        <attr name="noticeText" format="string" />
+        <attr name="imgResource" format="reference" />
+        <attr name="btnText" format="string" />
+    </declare-styleable>
+</resources>
